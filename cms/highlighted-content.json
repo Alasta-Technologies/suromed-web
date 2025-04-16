@@ -1,0 +1,20 @@
+[
+  {
+    "shortDescription": "5 cosas que no debes hacer para Rayos-X",
+    "videoUrl": "/videos/1-mod.mp4",
+    "thumbnailUrl": "/thumbnails/1.png",
+    "duration": "0:28"
+  },
+  {
+    "shortDescription": "Tomografía",
+    "videoUrl": "/videos/2-mod.mp4",
+    "thumbnailUrl": "/thumbnails/2.png",
+    "duration": "0:12"
+  },
+  {
+    "shortDescription": "Ultrasonido Navideño",
+    "videoUrl": "/videos/3-mod.mp4",
+    "thumbnailUrl": "/thumbnails/3.png",
+    "duration": "0:12"
+  }
+]

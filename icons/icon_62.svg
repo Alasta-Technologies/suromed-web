@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 96 96">
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <circle cx="46.56" cy="17.07" r="8.96" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M32.15,49.41v-4.51c0-7.74,6.28-14.02,14.02-14.02h0c7.74,0,14.02,6.28,14.02,14.02v6.05" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M37.59,77.65v5.76c0,2.48,2.01,4.48,4.48,4.48h0c2.48,0,4.48-2.01,4.48-4.48v-5.76" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M46.56,77.65v5.76c0,2.48,2.01,4.48,4.48,4.48h0c2.48,0,4.48-2.01,4.48-4.48v-5.76" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M58.25,36.6c15.32.91,26.53,3.81,26.53,7.24,0,4.16-16.47,7.54-36.78,7.54s-36.78-3.37-36.78-7.54c0-3.2,9.75-5.94,23.51-7.03" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M84.78,69.24c0,4.16-16.47,7.54-36.78,7.54s-36.78-3.37-36.78-7.54" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line x1="84.78" y1="43.84" x2="84.78" y2="69.24" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line x1="11.22" y1="43.84" x2="11.22" y2="69.24" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <polyline points="27.26 66.28 33.2 66.28 35.72 62.71 38.04 69.1 39.58 65.24 44.25 65.24 47.31 56.63 49.95 71.62 53.8 62.27 55.32 66.28 64.94 66.28" fill="none" stroke="#62c8d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M67.45,57.45c4.74,0,15.95-3.78,17.33-5.16" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M76.18,63.05c3.94-.96,7.77-2.35,8.61-3.18" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

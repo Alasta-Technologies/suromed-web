@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 96 96">
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <path d="M31.08,50.34c-2.35-3.12-3.74-7-3.74-11.2,0-10.29,8.34-18.63,18.63-18.63s18.63,8.34,18.63,18.63c0,3.86-1.17,7.44-3.18,10.42" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M35.48,46.93c-1.65-2.2-2.64-4.93-2.64-7.89,0-7.25,5.88-13.12,13.12-13.12s13.12,5.88,13.12,13.12c0,2.72-.83,5.24-2.24,7.34" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M21.9,59.42c-4.62-5.48-7.4-12.55-7.4-20.28,0-17.38,14.09-31.47,31.47-31.47s31.47,14.09,31.47,31.47c0,8.07-3.04,15.43-8.04,21.01" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M66.87,24.92c1.38,2.26,2.37,4.72,2.95,7.27" fill="none" stroke="#62c8d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M45.05,13.3c2.37-.11,4.77.13,7.12.73" fill="none" stroke="#62c8d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M22.08,41.07c-.8-5.49.26-11.28,3.43-16.35" fill="none" stroke="#62c8d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <polyline points="86.1 82.31 51.79 48 39.88 48 5.84 82.31" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <g>
+          <line x1="45.05" y1="84.26" x2="45.05" y2="81.26" fill="none" stroke="#62c8d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <line x1="45.05" y1="76.08" x2="45.05" y2="57.94" fill="none" stroke="#62c8d2" stroke-dasharray="5.18 5.18 5.18 5.18" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <line x1="45.05" y1="55.35" x2="45.05" y2="52.35" fill="none" stroke="#62c8d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 96 96">
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <g>
+          <path d="M47.6,30.87c-7.32,0-13.99-2.74-19.08-7.23L3.96,59.15c12.33,8.73,27.38,13.88,43.63,13.88s31.96-5.37,44.44-14.45l-24.62-35.6c-5.18,4.88-12.14,7.9-19.82,7.9Z" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <g>
+            <path d="M52.69,50.01c-.62-1.47-.96-3.1-.96-4.82,0-6.43,4.8-10.94,10.73-10.94s10.73,5.21,10.73,11.65-4.8,10.94-10.73,10.94c-1.26,0-2.48-.24-3.6-.67" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path d="M62.79,56.76c-2.12,3.13-4.27,8.44-17.57,10.6-9.95,1.61-20.2-5.2-15.01-15.89" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path d="M38.56,51.04h-9.8c-2.53,0-4.35-2.43-3.64-4.85l1.57-5.34c.37-1.25,1.6-2.03,2.89-1.83h0c1.5.24,2.48,1.72,2.1,3.19l-.43,1.7c-.06.22.13.43.36.39l8.74-1.28c2.96-.43,5.52,2.04,5.2,5.01l-1.2,11.04" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path d="M51.73,45.19c-4.63-2.32-6.63.35-6.63.35" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <line x1="45.01" y1="52.96" x2="51.73" y2="59.68" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path d="M33.6,54.6c-1.01,3.47.23,5.96,3.35,7.67" fill="none" stroke="#62c8d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <polyline points="20.04 85.09 8.18 85.09 8.18 74.83" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <polyline points="87.82 74.83 87.82 85.09 76.59 85.09" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <polyline points="76.59 10.91 87.82 10.91 87.82 20.38" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <polyline points="8.18 20.38 8.18 10.91 20.04 10.91" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

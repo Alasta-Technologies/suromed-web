@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 96 96">
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <g>
+          <polyline points="57.39 54.18 61.91 54.18 77.17 76.49 18.21 76.49 33.47 54.18 38.19 54.18" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <rect x="18.21" y="76.49" width="58.96" height="11.65" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path d="M29.14,54.18c-.74-2.09-1.14-4.33-1.14-6.67,0-11.04,8.95-19.99,19.99-19.99s19.99,8.95,19.99,19.99c0,2.34-.4,4.58-1.14,6.67" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path d="M22.63,56.49c-.99-2.76-1.53-5.73-1.53-8.83,0-14.62,12.04-26.46,26.9-26.46s26.9,11.85,26.9,26.46c0,3.1-.54,6.07-1.53,8.83" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path d="M81.87,76.49h4.19v-28.97c0-21.03-17.04-38.06-38.05-38.06S9.95,26.49,9.95,47.52v28.97h5.22" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <rect x="38.19" y="48.92" width="19.2" height="10.52" rx="5.26" ry="5.26" fill="none" stroke="#1f1b46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <line x1="14.06" y1="58.58" x2="19.21" y2="58.58" fill="none" stroke="#62c8d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line x1="14.06" y1="63.62" x2="19.21" y2="63.62" fill="none" stroke="#62c8d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line x1="14.06" y1="68.67" x2="19.21" y2="68.67" fill="none" stroke="#62c8d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
