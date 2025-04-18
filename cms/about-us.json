@@ -2,5 +2,9 @@
   "description1": "Entendemos que detrás de cada estudio hay una decisión médica importante. Por eso, contamos con un equipo de radiólogos altamente especializados, egresados de instituciones de prestigio y con experiencia en distintas ramas de la radiología.",
   "description2": "Nuestros especialistas no solo interpretan imágenes: analizan cada caso con enfoque clínico, precisión y sensibilidad, colaborando estrechamente con otros médicos tratantes para asegurar diagnósticos oportunos y relevantes.",
   "description3": "Además de nuestro equipo de radiólogos, en Suromed también contamos con técnicos en radiología certificados y personal médico capacitado, que brindan una atención cercana, profesional y centrada en la seguridad y comodidad de cada paciente.",
-  "teamMembers": []
+  "teamMembers": [],
+  "shortDescription": "About us",
+  "videoUrl": "/videos/about_us.mp4",
+  "thumbnailUrl": "/thumbnails/about_us.png",
+  "duration": "0:11"
 }
