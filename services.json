@@ -1,0 +1,58 @@
+[
+  {
+    "icon": "icon_57",
+    "title": "Tomografía Computarizada (TAC / CT)",
+    "cost": "$2,200",
+    "infoList": [
+      { "info": "Imágenes detalladas y en alta resolución de las estructuras internas del cuerpo." },
+      { "info": "Es especialmente útil para diagnosticar problemas en el cerebro, tórax, abdomen y otras áreas que requieren un análisis más profundo." }
+    ],
+    "exampleList": [
+      { "example": "TAC de cráneo / cabeza" },
+      { "example": "TAC de tórax" },
+      { "example": "TAC de abdomen completo" },
+      { "example": "TAC de columna" },
+      { "example": "TAC de senos paranasales" }
+    ],
+    "callToAction": "Agenda tu tomografía",
+    "phoneMessage": "Hola%20🙂,%20me%20gustaría%20agendar%20una%20cita%20para%20una%20tomografía:",
+    "imageFileName": "sr-tomografia.gif"
+  },
+  {
+    "icon": "icon_43",
+    "title": "Ultrasonido",
+    "cost": "$1,500",
+    "infoList": [
+      { "info": "Estudio no invasivo que utiliza ondas sonoras para obtener imágenes en tiempo real del interior de tu cuerpo." },
+      { "info": "Es perfecto para revisar órganos, tejidos y embarazos con total seguridad." }
+    ],
+    "exampleList": [
+      { "example": "Ultrasonido obstétrico" },
+      { "example": "Ultrasonido abdominal" },
+      { "example": "Ultrasonido de tiroides" },
+      { "example": "Ultrasonido mamario" }
+    ],
+    "callToAction": "Agenda tu ultrasonido",
+    "phoneMessage": "Hola%20🙂,%20me%20gustaría%20agendar%20una%20cita%20para%20un%20ultrasonido:",
+    "imageFileName": "sr-ultrasonido.gif"
+  },
+  {
+    "icon": "icon_39",
+    "title": "Radiografía",
+    "cost": "$600",
+    "infoList": [
+      { "info": "Una herramienta rápida y efectiva para obtener imágenes detalladas de tus huesos y órganos." },
+      { "info": "Ideal para detectar fracturas, lesiones o enfermedades que necesitan atención oportuna." }
+    ],
+    "exampleList": [
+      { "example": "Radiografía de tórax" },
+      { "example": "Radiografía de columna (cervical, dorsal o lumbar)" },
+      { "example": "Radiografía de extremidades (hombro, rodilla, mano, pie, etc.)" },
+      { "example": "Radiografía de abdomen simple" }
+    ],
+    "callToAction": "Agenda tu radiografía",
+    "phoneMessage": "Hola%20🙂,%20me%20gustaría%20agendar%20una%20cita%20para%20una%20radiografía:",
+    "imageExtraClass": "object-left",
+    "imageFileName": "sr-rayos-x.jpg"
+  }
+]
