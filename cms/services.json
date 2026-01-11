@@ -2,7 +2,7 @@
   {
     "icon": "icon_57",
     "title": "Tomografía Computarizada (TAC / CT)",
-    "cost": "$2,200",
+    "cost": "$2,300",
     "infoList": [
       { "info": "Imágenes detalladas y en alta resolución de las estructuras internas del cuerpo." },
       { "info": "Es especialmente útil para diagnosticar problemas en el cerebro, tórax, abdomen y otras áreas que requieren un análisis más profundo." }
